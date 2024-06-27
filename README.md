@@ -1,4 +1,4 @@
-![‎img comp ‎1](https://github.com/rudra-99/XAI-Evolving-Binary-Masks/assets/107755049/3a0d5a3e-3af0-49f9-8cf9-badb0056915f)# XAI-Evolving-Binary-Masks
+# XAI-Evolving-Binary-Masks
 Explaining Image Classification by evolving Binary Masks
 
 Most of us are familiar with the deep neural networks like CNN and their efficiency in image classification tasks. But one might wonder how is the CNN able to make such decisions as the way the image gets percieved by a computer is very different compared to our vision. That being said, algorithms like eXplainable Arificial Intelligence or XAI algorithms can actually help us in deciphering how black-box models like CNNs really work. Some of the notable XAI algorithms include Grad-Cam, LIME, SHAP etc. This is an algorithm created by me during my Mtech Final year as part of the dissertation. This novel method is inspired by the Evolutionary Algorithms, EA, and has been used for explaining the image classification. The contributions of this algorithm encompass the following:
